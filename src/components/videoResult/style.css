@@ -1,0 +1,14 @@
+.section-videos h3 {
+  padding-left: 40px;
+  font-size: 18px;
+}
+
+.card-deck {
+  padding-left: 23px;
+}
+
+.card-deck .card {
+  margin: 4px;
+  border-radius: 10px;
+  overflow: hidden;
+}

@@ -1,0 +1,15 @@
+.numberOfResult {
+  padding-left: 35px;
+  color: #808080;
+  font-size: 13px;
+}
+
+.section-result {
+  padding-top: 15px;
+  width: 60%;
+}
+
+.list-result {
+  list-style: none;
+  padding-left: 35px;
+}

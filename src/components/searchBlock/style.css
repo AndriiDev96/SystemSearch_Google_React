@@ -1,0 +1,126 @@
+.jumbotron {
+  border-radius: 0px;
+  border-bottom: 1px solid #e5e7ea;
+  background-color: #fff;
+  padding: 20px 32px 15px 32px;
+  margin-bottom: 13px;
+}
+
+.wrapper-block-search {
+  display: flex;
+  position: relative;
+  align-items: center;
+  height: 46px;
+  width: 650px;
+  border: 1px solid #e5e7ea;
+  border-radius: 50px;
+  background-color: #fff;
+  padding-left: 5px;
+}
+
+.wrapper-block-search:hover {
+  -webkit-box-shadow: 0px 1px 12px -4px rgba(77, 77, 77, 1);
+  -moz-box-shadow: 0px 1px 12px -4px rgba(77, 77, 77, 1);
+  box-shadow: 0px 1px 12px -4px rgba(77, 77, 77, 1);
+}
+
+.logo img {
+  padding-top: 8px;
+  width: 80px;
+  height: 35px;
+}
+
+.wrapper-input {
+  width: 80%;
+  outline: none;
+}
+
+.form-control {
+  border: 0px solid;
+  height: 34px;
+  color: rgba(0,0,0,.87);
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+  color: rgba(0,0,0,.87);
+}
+
+.enter-and-search {
+  width: 20%;
+  display: flex;
+  align-content: center;
+}
+
+.enter-and-search .keyboard,
+.enter-and-search .voice-search-button,
+.enter-and-search button {
+  height: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0px 10px 0px 10px;
+  outline: none;
+}
+
+.btn-voice-search img {
+  height: 24px;
+  width: 24px;
+}
+
+.enter-and-search button img {
+  height: 18px;
+  width: 18px;
+}
+
+.google-extension {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.aplication-google {
+  display: flex;
+  align-items: center;
+}
+
+.application {
+  background-image: url("/img/google_icons.png");
+  background-position: -132px -38px;
+  opacity: .55;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+
+}
+
+.application:hover {
+  opacity: 1;
+}
+
+.notification {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  padding: 4px;
+  margin: 0 18px 0 12px;
+}
+
+.notification div {
+  background-image: url("/img/google_icons.png");
+  background-position: -193px -20px;
+  height: 100%;
+  width: 100%;
+  background-color: #777;
+  border-radius: 50%;
+}
+
+.notification div:hover {
+  background-color: black;
+}
+
+.avatar {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+.wrapper-result h3{
+  font-size: 18px;
+  color: #1a0dab;
+  margin: 0;
+}
+
+.wrapper-result h3 a{
+  color: #1a0dab;
+}
+
+.wrapper-result .body-result cite a{
+  font-size: 14px;
+  color: #006621;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.wrapper-result .body-text{
+  color: #545454;
+  font-size: small;
+}
